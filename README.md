@@ -35,8 +35,8 @@ I am a passionate **Frontend & Full-Stack Developer** and Computer Science Engin
 ###  GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthi-tanikonda&show_icons=true&theme=dark&hide_border=true&bg_color=1E1E1E" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthi-tanikonda&layout=compact&theme=dark&hide_border=true&bg_color=1E1E1E" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=karthi-tanikonda&show_icons=true&theme=dark&hide_border=true&bg_color=1E1E1E" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=karthi-tanikonda&layout=compact&theme=dark&hide_border=true&bg_color=1E1E1E" alt="Top Languages" width="48%" />
 </p>
 
 ---
